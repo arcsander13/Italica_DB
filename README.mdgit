@@ -1,0 +1,2 @@
+"# Italica_DB"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/arcsander13/Italica_DB.gitgit push -u origin main
+"# Italica_DB"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/arcsander13/Italica_DB.gitgit push -u origin main
